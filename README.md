@@ -1,16 +1,15 @@
-### Hi there 👋
+### 💁 Hi!
 
-<!--
-**carollinepacheco/carollinepacheco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Caroline Pachêco
 
-Here are some ideas to get you started:
+Sou Desenvolvedora Jr.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formada pela RecodePro | Full Stack Develop
+
+Atualmente meu foco é obter exeperiência na área de desenvolvimento.
+
+<div>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carollinepacheco_icons=true&theme=tokyonight"/>
+
+</div
