@@ -8,12 +8,13 @@ Formada pela RecodePro | Full Stack Develop
 
 Atualmente meu foco é obter exeperiência na área de desenvolvimento.
 
+<br>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carollinepacheco&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollinepacheco&layout=compact&theme=tokyonight"/>
 </div
+<br>
 
-<br><br>
 ### ❤️ Let's get connected: 
 <br>
 
@@ -25,4 +26,15 @@ Atualmente meu foco é obter exeperiência na área de desenvolvimento.
   
 ### 🛠️ Tecnologies e Tools I use:
   
+<div>
+  <img align="center" alt="Carol-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Carol-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Carol-bootstrap" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Carol-reactjs" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Carol-java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Carol-c#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Carol-javaScript" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Carol-mysql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Carol-mysql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+</div>
 
