@@ -1,4 +1,4 @@
-### 💁 Hi!
+## 💁 Hi!
 
 Eu sou Caroline Pachêco
 
@@ -22,3 +22,7 @@ Atualmente meu foco é obter exeperiência na área de desenvolvimento.
 [![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/carollinepacheco)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kroldev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krolline_pacheco/) 
+  
+### 🛠️ Tecnologies e Tools I use:
+  
+
