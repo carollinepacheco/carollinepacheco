@@ -9,7 +9,6 @@ Formada pela RecodePro | Full Stack Develop
 Atualmente meu foco é obter exeperiência na área de desenvolvimento.
 
 <div>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carollinepacheco&show_icons=true&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carollinepacheco&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollinepacheco&layout=compact&theme=tokyonight"/>
 </div
