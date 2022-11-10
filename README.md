@@ -13,11 +13,10 @@ Atualmente meu foco é obter exeperiência na área de desenvolvimento.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollinepacheco&layout=compact&theme=tokyonight"/>
 </div
 
-<br>
-<br>
+<br><br> 
 ### ❤️ Let's get connected: 
 <br>
-<br> 
+
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9pg8BR75zy)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karollinepacheco/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krolline_pacheco/)  
