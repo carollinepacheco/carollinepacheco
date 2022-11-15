@@ -2,7 +2,7 @@
 
 Eu sou Caroline Pachêco
 
-Desenvolvedora Web Jr.
+Desenvolvedora Full Stack Jr .
 
 Formada pela RecodePro | Full Stack Develop
 
