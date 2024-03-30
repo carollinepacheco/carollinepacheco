@@ -6,7 +6,7 @@ Desenvolvedora Full Stack Jr .
 
 Formada pela RecodePro | Full Stack Develop
 
-Atualmente meu foco é obter exeperiência na área de desenvolvimento.
+Atualmente meu foco é obter experiência na área de desenvolvimento.
 
 <br>
 <div>
