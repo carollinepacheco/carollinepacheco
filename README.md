@@ -1,6 +1,6 @@
 # 👩‍💻 Olá, eu sou Caroline Pacheco!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🎓 Estudante de **Técnico em Informática**  
 💻 Interessada em tecnologia, programação e desenvolvimento de soluções  
 🌱 Em constante aprendizado e evolução na área de tecnologia  
 🚀 Construindo meu portfólio através de projetos práticos
@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e interessada em desenvolvimento de software.
+Sou estudante de **Técnico em Informática**, apaixonada por tecnologia e interessada em desenvolvimento de software.
 
 Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, sistemas operacionais, Git, GitHub e outras ferramentas utilizadas na área de tecnologia.
 
@@ -59,15 +59,13 @@ Cada projeto representa uma oportunidade de aprender algo novo, testar conhecime
 
 ## 🌱 Atualmente estudando
 
-- 📚 Análise e Desenvolvimento de Sistemas
+- 📚 Técnico em Informática
 - 💻 Lógica de programação
 - 🐍 Python
 - 🌐 Desenvolvimento Web
-- 🗄️ Banco de dados
 - 🐧 Linux
 - 🔧 Git e GitHub
 - 🤖 Inteligência Artificial
-- 💡 Desenvolvimento de projetos práticos
 
 ---
 
@@ -79,16 +77,6 @@ Cada projeto representa uma oportunidade de aprender algo novo, testar conhecime
 - 🧠 Aprender novas tecnologias
 - 🤝 Participar de projetos e experiências profissionais
 - 👩‍💻 Conquistar uma oportunidade na área de tecnologia
-
----
-
-## 📂 Projetos
-
-Aqui você encontrará alguns dos projetos que estou desenvolvendo durante minha jornada de aprendizado.
-
-### 🚧 Projetos em desenvolvimento
-
-Novos projetos serão adicionados conforme minha evolução nos estudos.
 
 ---
 
