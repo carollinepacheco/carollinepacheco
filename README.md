@@ -1,40 +1,119 @@
-## 💁 Hi!
+# 👩‍💻 Olá, eu sou Caroline Pacheco!
 
-Eu sou Caroline Pachêco
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Interessada em tecnologia, programação e desenvolvimento de soluções  
+🌱 Em constante aprendizado e evolução na área de tecnologia  
+🚀 Construindo meu portfólio através de projetos práticos
 
-Desenvolvedora Full Stack Jr .
+---
 
-Formada pela RecodePro | Full Stack Develop
+## 🧑‍💻 Sobre mim
 
-Atualmente meu foco é obter experiência na área de desenvolvimento.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonada por tecnologia e interessada em desenvolvimento de software.
 
-<br>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carollinepacheco&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carollinepacheco&layout=compact&theme=tokyonight"/>
-</div
-<br>
+Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, sistemas operacionais, Git, GitHub e outras ferramentas utilizadas na área de tecnologia.
 
-### ❤️ Let's get connected: 
-<br>
+Meu objetivo é transformar o conhecimento adquirido nos estudos em **projetos práticos**, desenvolver minhas habilidades e construir uma carreira na área de tecnologia.
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9pg8BR75zy)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karollinepacheco/) 
-[![Dev.To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/carollinepacheco)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kroldev)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krolline_pacheco/) 
-  
-### 🛠️ Tecnologies e Tools I use:
-  
-<div>
-  <img align="center" alt="Carol-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Carol-css" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Carol-bootstrap" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Carol-reactjs" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Carol-java" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Carol-c#" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Carol-javaScript" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Carol-mysql" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Carol-npm" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+---
+
+## 🚀 Tecnologias e ferramentas
+
+### 💻 Desenvolvimento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java&theme=dark" />
+</p>
+
+### 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
+
+> 📚 Algumas dessas tecnologias estão em processo de aprendizado e outras fazem parte dos meus estudos atuais.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=carollinepacheco&show_icons=true&theme=nightowl&include_all_commits=true">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=carollinepacheco&show_icons=true&theme=nightowl&include_all_commits=true"/>
+  </a>
+
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=carollinepacheco&layout=compact&langs_count=4&theme=nightowl">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=carollinepacheco&layout=compact&langs_count=4&theme=nightowl"/>
+  </a>
+</p>
+
+---
+
+## 📈 Minha jornada
+
+Estou construindo minha experiência através dos estudos e de projetos práticos.
+
+Cada projeto representa uma oportunidade de aprender algo novo, testar conhecimentos e melhorar minhas habilidades como desenvolvedora.
+
+---
+
+## 🌱 Atualmente estudando
+
+- 📚 Análise e Desenvolvimento de Sistemas
+- 💻 Lógica de programação
+- 🐍 Python
+- 🌐 Desenvolvimento Web
+- 🗄️ Banco de dados
+- 🐧 Linux
+- 🔧 Git e GitHub
+- 🤖 Inteligência Artificial
+- 💡 Desenvolvimento de projetos práticos
+
+---
+
+## 🎯 Objetivos
+
+- 🚀 Evoluir constantemente na área de tecnologia
+- 💻 Desenvolver projetos para meu portfólio
+- 📚 Aprofundar meus conhecimentos em programação
+- 🧠 Aprender novas tecnologias
+- 🤝 Participar de projetos e experiências profissionais
+- 👩‍💻 Conquistar uma oportunidade na área de tecnologia
+
+---
+
+## 📂 Projetos
+
+Aqui você encontrará alguns dos projetos que estou desenvolvendo durante minha jornada de aprendizado.
+
+### 🚧 Projetos em desenvolvimento
+
+Novos projetos serão adicionados conforme minha evolução nos estudos.
+
+---
+
+## 📫 Entre em contato
+
+<p align="left">
+
+<a href="mailto:carolline.pacheco@outlook.com">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+<a href="https://github.com/carollinepacheco">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💜 Obrigada por visitar meu perfil!
+
+*"Aprender é um processo contínuo. Cada linha de código é mais um passo nessa jornada."*
+
+⭐ Se algum projeto for útil para você, considere deixar uma estrela!
+
 </div>
-
