@@ -9,11 +9,13 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de **Técnico em Informática**, apaixonada por tecnologia e interessada em desenvolvimento de software.
+Sou estudante de **Técnico em Informática**, interessada em tecnologia e desenvolvimento de soluções.
 
-Atualmente estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, sistemas operacionais, Git, GitHub e outras ferramentas utilizadas na área de tecnologia.
+Atualmente, estou desenvolvendo meus conhecimentos em programação, desenvolvimento web, sistemas operacionais, Git, GitHub e outras ferramentas da área de tecnologia.
 
-Meu objetivo é transformar o conhecimento adquirido nos estudos em **projetos práticos**, desenvolver minhas habilidades e construir uma carreira na área de tecnologia.
+Gosto de aprender na prática, explorar novas tecnologias e transformar o conhecimento adquirido nos estudos em projetos.
+
+Meu objetivo é desenvolver minhas habilidades, adquirir experiência e construir uma carreira na área de tecnologia.
 
 ---
 
@@ -31,7 +33,7 @@ Meu objetivo é transformar o conhecimento adquirido nos estudos em **projetos p
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
 </p>
 
-> 📚 Algumas dessas tecnologias estão em processo de aprendizado e outras fazem parte dos meus estudos atuais.
+> 📚 Tecnologias que fazem parte dos meus estudos e projetos, com diferentes níveis de experiência.
 
 ---
 
@@ -53,7 +55,7 @@ Meu objetivo é transformar o conhecimento adquirido nos estudos em **projetos p
 
 Estou construindo minha experiência através dos estudos e de projetos práticos.
 
-Cada projeto representa uma oportunidade de aprender algo novo, testar conhecimentos e melhorar minhas habilidades como desenvolvedora.
+Cada projeto representa uma oportunidade de aprender algo novo, colocar conhecimentos em prática e desenvolver novas habilidades na área de tecnologia.
 
 ---
 
@@ -76,7 +78,7 @@ Cada projeto representa uma oportunidade de aprender algo novo, testar conhecime
 - 📚 Aprofundar meus conhecimentos em programação
 - 🧠 Aprender novas tecnologias
 - 🤝 Participar de projetos e experiências profissionais
-- 👩‍💻 Conquistar uma oportunidade na área de tecnologia
+- 👩‍💻 Conquistar uma oportunidade na área de Tecnologia
 
 ---
 
